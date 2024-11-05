@@ -1,1 +1,0 @@
-import{j as t}from"./index-4vHFsJLK.js";const a=({headline:e})=>t.jsx("div",{className:"headline",children:t.jsxs("div",{className:"txt position-relative text-center text-uppercase",children:[t.jsx("div",{className:"position-absolute back",children:e}),t.jsx("h1",{className:"text-fill-animation text-40","data-text":e,children:e})]})});export{a as H};
